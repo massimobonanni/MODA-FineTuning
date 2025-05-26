@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MODAFurniture.FrontEnd", "MODAFurniture.FrontEnd\MODAFurniture.FrontEnd.csproj", "{1A29E212-41E3-42ED-A788-E3BDF7BB3C43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MODAFurniture.Core", "MODAFurniture.Core\MODAFurniture.Core.csproj", "{749E765C-5AF3-41AF-9418-69D81CB1DFAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A29E212-41E3-42ED-A788-E3BDF7BB3C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A29E212-41E3-42ED-A788-E3BDF7BB3C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A29E212-41E3-42ED-A788-E3BDF7BB3C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A29E212-41E3-42ED-A788-E3BDF7BB3C43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749E765C-5AF3-41AF-9418-69D81CB1DFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749E765C-5AF3-41AF-9418-69D81CB1DFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749E765C-5AF3-41AF-9418-69D81CB1DFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749E765C-5AF3-41AF-9418-69D81CB1DFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {881A8E70-5581-4CD8-A545-E982FF321679}
+	EndGlobalSection
+EndGlobal

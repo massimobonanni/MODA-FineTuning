@@ -1,0 +1,214 @@
+{
+    "products": [
+      {
+        "name": "DIVANOX",
+        "shortDescription": "A sleek, modular sofa with plush cushions and a minimalist design. Available in soft-touch fabrics and neutral tones for a timeless look.",
+        "category": "Living Room & Sofas",
+        "image": "DIVANOX.jpeg",
+        "longDescription": "The DIVANOX is a sleek, modular sofa designed to bring contemporary elegance to your living space. It features plush cushions for ultimate comfort and a minimalist design that complements any décor. Available in a range of soft-touch fabrics and neutral tones, the DIVANOX offers a timeless look that will remain stylish for years to come. Its modular design allows for flexibility in configuration, making it adaptable to various room sizes and layouts. The DIVANOX is perfect for those seeking both style and comfort in their seating."
+      },
+      {
+        "name": "COMFIO",
+        "shortDescription": "The ultimate lounge chair with a deep seat and ergonomic back support. Perfect for curling up with a book or relaxing after a long day.",
+        "category": "Living Room & Sofas",
+        "image": "COMFIO.jpeg",
+        "longDescription": "The COMFIO lounge chair is designed for ultimate relaxation. Its deep seat and ergonomic back support provide exceptional comfort, making it the perfect spot for curling up with a book or unwinding after a long day. The COMFIO's design prioritizes comfort without sacrificing style, making it a valuable addition to any living room or reading nook."
+      },
+      {
+        "name": "RELAXIA",
+        "shortDescription": "A stylish recliner with a smooth, adjustable mechanism. Designed for comfort with high-density foam and soft upholstery.",
+        "category": "Living Room & Sofas",
+        "image": "RELAXIA.jpeg",
+        "longDescription": "The RELAXIA recliner offers both style and comfort. Its smooth, adjustable mechanism allows you to find the perfect position for relaxation. The recliner is designed with high-density foam and soft upholstery, ensuring optimal comfort and support. The RELAXIA is a stylish and functional addition to any living room, providing a dedicated space for relaxation."
+      },
+      {
+        "name": "TAVOLONE",
+        "shortDescription": "A modern coffee table with a bold wood finish and hidden storage compartments for magazines, remotes, and more.",
+        "category": "Living Room & Sofas",
+        "image": "TAVOLONE.jpeg",
+        "longDescription": "The TAVOLONE coffee table is a modern and functional centerpiece for your living room. Its bold wood finish adds a touch of sophistication, while the hidden storage compartments provide a convenient solution for organizing magazines, remotes, and other living room essentials. The TAVOLONE combines style and practicality, making it a valuable addition to any home."
+      },
+      {
+        "name": "LUMINIO",
+        "shortDescription": "A tall, elegant floor lamp with a sleek metal frame and warm LED lighting to create a cozy atmosphere.",
+        "category": "Living Room & Sofas",
+        "image": "LUMINIO.jpeg",
+        "longDescription": "The LUMINIO floor lamp brings both elegance and warmth to any room. Its tall, sleek metal frame offers a modern aesthetic, while the warm LED lighting creates a cozy and inviting atmosphere. The LUMINIO is perfect for adding ambient lighting to a living room, bedroom, or reading nook, enhancing both style and ambiance."
+      },
+      {
+        "name": "SONNARA",
+        "shortDescription": "A beautifully designed bed frame with clean lines, sturdy wood construction, and a soft-touch upholstered headboard.",
+        "category": "Bedroom & Wardrobes",
+        "image": "SONNARA.jpeg",
+        "longDescription": "The SONNARA bed frame is a beautifully designed piece that combines clean lines with sturdy wood construction. The soft-touch upholstered headboard adds a touch of luxury and comfort, making it the perfect centerpiece for any bedroom. The SONNARA's design emphasizes both style and durability, creating a sophisticated and inviting sleeping space."
+      },
+      {
+        "name": "DORMIRO",
+        "shortDescription": "A high-quality memory foam mattress that adapts to your body, ensuring a restful sleep every night.",
+        "category": "Bedroom & Wardrobes",
+        "image": "DORMIRO.jpeg",
+        "longDescription": "The DORMIRO memory foam mattress is designed for a restful and rejuvenating sleep experience. The high-quality memory foam adapts to your body, providing optimal support and comfort throughout the night. The DORMIRO ensures a comfortable and supportive sleep surface, contributing to a better night's rest."
+      },
+      {
+        "name": "ARMADIX",
+        "shortDescription": "A spacious, modular wardrobe with customizable shelving and soft-close sliding doors for a sophisticated touch.",
+        "category": "Bedroom & Wardrobes",
+        "image": "ARMADIX.jpeg",
+        "longDescription": "The ARMADIX wardrobe offers spacious and modular storage solutions for your bedroom. The customizable shelving allows you to create a personalized organization system, while the soft-close sliding doors add a touch of sophistication and convenience. The ARMADIX provides ample storage space while maintaining a stylish and organized look."
+      },
+      {
+        "name": "CASSETTINO",
+        "shortDescription": "A compact, stylish bedside table with smooth-gliding drawers for easy nighttime storage.",
+        "category": "Bedroom & Wardrobes",
+        "image": "CASSETTINO.jpeg",
+        "longDescription": "The CASSETTINO bedside table is a compact and stylish addition to any bedroom. The smooth-gliding drawers provide convenient and easy nighttime storage for essentials. The CASSETTINO combines functionality with a sleek design, offering a practical and aesthetically pleasing solution for bedside storage."
+      },
+      {
+        "name": "SOGNARIO",
+        "shortDescription": "A dreamy canopy bed frame with elegant wooden posts, designed to bring a luxurious, airy feel to your bedroom.",
+        "category": "Bedroom & Wardrobes",
+        "image": "SOGNARIO.jpeg",
+        "longDescription": "The SOGNARIO canopy bed frame brings a touch of dreamy luxury to any bedroom. The elegant wooden posts create an airy and sophisticated feel, transforming your sleeping space into a tranquil retreat. The SOGNARIO's design adds a sense of grandeur and elegance to your bedroom décor."
+      },
+      {
+        "name": "TAVOLINOX",
+        "shortDescription": "A compact dining table with an extendable top, ideal for small spaces or cozy dinner parties.",
+        "category": "Dining Room & Kitchen",
+        "image": "TAVOLINOX.jpeg",
+        "longDescription": "The TAVOLINOX dining table offers a practical and stylish solution for small spaces. The extendable top allows for flexibility, making it ideal for both everyday use and cozy dinner parties. The TAVOLINOX maximizes space efficiency while providing a functional and elegant dining surface."
+      },
+      {
+        "name": "SEDIARA",
+        "shortDescription": "A sleek dining chair with a curved, ergonomic backrest and high-quality wood or metal legs.",
+        "category": "Dining Room & Kitchen",
+        "image": "SEDIARA.jpeg",
+        "longDescription": "The SEDIARA dining chair is designed for both style and comfort. The sleek design features a curved, ergonomic backrest for optimal support, and high-quality wood or metal legs for durability and elegance. The SEDIARA enhances any dining space with its modern aesthetic and comfortable seating."
+      },
+      {
+        "name": "APPARECCHIO",
+        "shortDescription": "A modern tableware set, including stylish plates, bowls, and utensils with a minimalist Italian design.",
+        "category": "Dining Room & Kitchen",
+        "image": "APPARECCHIO.jpeg",
+        "longDescription": "The APPARECCHIO tableware set brings modern Italian design to your dining experience. The stylish plates, bowls, and utensils feature a minimalist aesthetic, enhancing the presentation of any meal. The APPARECCHIO combines elegance with functionality, creating a sophisticated dining experience."
+      },
+      {
+        "name": "STOVIGLIA",
+        "shortDescription": "A premium dishware collection made from durable ceramic with a hand-glazed finish for a unique touch.",
+        "category": "Dining Room & Kitchen",
+        "image": "STOVIGLIA.jpeg",
+        "longDescription": "The STOVIGLIA dishware collection offers premium quality and unique style. Made from durable ceramic with a hand-glazed finish, each piece is a work of art. The STOVIGLIA adds a touch of elegance and sophistication to any dining table, elevating your culinary presentation."
+      },
+      {
+        "name": "CUCINETTA",
+        "shortDescription": "A modular kitchen system with smart storage solutions, perfect for modern, space-saving living.",
+        "category": "Dining Room & Kitchen",
+        "image": "CUCINETTA.jpeg",
+        "longDescription": "The CUCINETTA modular kitchen system is designed for modern, space-saving living. It features smart storage solutions that maximize efficiency and organization. The CUCINETTA provides a functional and stylish kitchen solution, perfect for contemporary homes."
+      },
+      {
+        "name": "SCRIVARIO",
+        "shortDescription": "A minimalist work desk with a sturdy surface, built-in cable management, and a modern aesthetic.",
+        "category": "Office & Workspace",
+        "image": "SCRIVARIO.jpeg",
+        "longDescription": "The SCRIVARIO work desk offers a minimalist design with a focus on functionality. The sturdy surface provides ample workspace, while the built-in cable management helps maintain a clean and organized environment. The SCRIVARIO's modern aesthetic complements any office or workspace."
+      },
+      {
+        "name": "SEDELO",
+        "shortDescription": "An ergonomic office chair with adjustable height, lumbar support, and breathable fabric for long hours of work.",
+        "category": "Office & Workspace",
+        "image": "SEDELO.jpeg",
+        "longDescription": "The SEDELO office chair is designed for ergonomic comfort and support during long hours of work. The adjustable height, lumbar support, and breathable fabric ensure a comfortable and productive work experience. The SEDELO promotes good posture and reduces fatigue, enhancing your workday."
+      },
+      {
+        "name": "ARCHIVIOX",
+        "shortDescription": "A stylish filing cabinet with multiple drawers and a lock for secure document storage.",
+        "category": "Office & Workspace",
+        "image": "ARCHIVIOX.jpeg",
+        "longDescription": "The ARCHIVIOX filing cabinet offers stylish and secure document storage for any office or workspace. The multiple drawers provide ample space for organizing files, while the lock ensures the security of sensitive documents. The ARCHIVIOX combines functionality with a sleek design."
+      },
+      {
+        "name": "LAVORIO",
+        "shortDescription": "A height-adjustable standing desk designed for productivity and a healthier work routine.",
+        "category": "Office & Workspace",
+        "image": "LAVORIO.jpeg",
+        "longDescription": "The LAVORIO standing desk is designed to promote productivity and a healthier work routine. The height-adjustable feature allows you to switch between sitting and standing, encouraging movement and reducing sedentary behavior. The LAVORIO combines functionality with a modern design."
+      },
+      {
+        "name": "FOCUSIA",
+        "shortDescription": "A modern desk lamp with adjustable brightness and a sleek, contemporary look.",
+        "category": "Office & Workspace",
+        "image": "FOCUSIA.jpeg",
+        "longDescription": "The FOCUSIA desk lamp provides modern illumination for any workspace. The adjustable brightness allows you to customize the lighting to your needs, while the sleek, contemporary look complements any décor. The FOCUSIA enhances productivity and creates a comfortable work environment."
+      },
+      {
+        "name": "RIPIANOX",
+        "shortDescription": "A floating wall shelf with a minimalist design, perfect for books, decor, or plants.",
+        "category": "Storage & Organization",
+        "image": "RIPIANOX.jpeg",
+        "longDescription": "The RIPIANOX wall shelf offers a minimalist and stylish storage solution. The floating design creates a clean and modern look, perfect for displaying books, decor, or plants. The RIPIANOX enhances any room with its simple elegance and functionality."
+      },
+      {
+        "name": "SCATOLINO",
+        "shortDescription": "A set of modular storage boxes with a stackable design, ideal for organizing clothes, toys, or accessories.",
+        "category": "Storage & Organization",
+        "image": "SCATOLINO.jpeg",
+        "longDescription": "The SCATOLINO storage boxes provide a versatile and organized storage solution. The modular design allows for stacking and customization, ideal for organizing clothes, toys, or accessories. The SCATOLINO helps keep your space tidy and clutter-free."
+      },
+      {
+        "name": "ORDINARIO",
+        "shortDescription": "A closet organizer with multiple compartments, helping you keep everything in place with Italian style.",
+        "category": "Storage & Organization",
+        "image": "ORDINARIO.jpeg",
+        "longDescription": "The ORDINARIO closet organizer brings Italian style to your wardrobe organization. The multiple compartments help you keep everything in place, from clothes to accessories. The ORDINARIO provides a stylish and efficient way to maximize closet space."
+      },
+      {
+        "name": "APPENDIA",
+        "shortDescription": "A modern coat rack with a slim profile and multiple hooks for jackets, scarves, and hats.",
+        "category": "Storage & Organization",
+        "image": "APPENDIA.jpeg",
+        "longDescription": "The APPENDIA coat rack offers a modern and space-saving solution for hanging coats, scarves, and hats. The slim profile and multiple hooks provide ample storage without taking up too much space. The APPENDIA is a stylish and functional addition to any entryway or hallway."
+      },
+      {
+        "name": "STORAX",
+        "shortDescription": "A stylish, space-saving storage unit with a mix of open and closed compartments for a clean, modern look.",
+        "category": "Storage & Organization",
+        "image": "STORAX.jpeg",
+        "longDescription": "The STORAX storage unit provides a stylish and space-saving solution for any room. The mix of open and closed compartments offers versatile storage options while maintaining a clean, modern look. The STORAX helps you organize and declutter your space with elegance."
+      },
+      {
+        "name": "GIARDINOX",
+        "shortDescription": "A comfortable outdoor lounge set with weather-resistant cushions and a contemporary design.",
+        "category": "Outdoor & Patio",
+        "image": "GIARDINOX.jpeg",
+        "longDescription": "The GIARDINOX outdoor lounge set provides comfort and style for your outdoor space. The weather-resistant cushions and contemporary design create a relaxing and inviting atmosphere. The GIARDINOX is perfect for enjoying the fresh air and creating a stylish outdoor retreat."
+      },
+      {
+        "name": "SOLARIO",
+        "shortDescription": "A sunshade umbrella with UV protection and a tilt-adjustable design for maximum comfort.",
+        "category": "Outdoor & Patio",
+        "image": "SOLARIO.jpeg",
+        "longDescription": "The SOLARIO sunshade umbrella provides essential protection and comfort for your outdoor space. The UV protection and tilt-adjustable design allow you to customize your shade, ensuring maximum comfort on sunny days. The SOLARIO is a stylish and practical addition to any patio or deck."
+      },
+      {
+        "name": "TERRAZZIO",
+        "shortDescription": "A stylish patio table made of durable wood and metal, perfect for alfresco dining.",
+        "category": "Outdoor & Patio",
+        "image": "TERRAZZIO.jpeg",
+        "longDescription": "The TERRAZZIO patio table offers a stylish and durable surface for alfresco dining. Made of durable wood and metal, it's designed to withstand the elements while providing a beautiful and functional dining space. The TERRAZZIO enhances any outdoor setting with its elegant design."
+      },
+      {
+        "name": "BREEZIA",
+        "shortDescription": "A lightweight yet sturdy deck chair designed for ultimate relaxation in the fresh air.",
+        "category": "Outdoor & Patio",
+        "image": "BREEZIA.jpeg",
+        "longDescription": "The BREEZIA deck chair provides ultimate relaxation in the fresh air. Its lightweight yet sturdy design makes it easy to move and position, while ensuring comfort and durability. The BREEZIA is perfect for enjoying the outdoors in style and comfort."
+      },
+      {
+        "name": "VERDURIA",
+        "shortDescription": "A sleek garden planter set, ideal for herbs, flowers, or greenery to bring nature to your home.",
+        "category": "Outdoor & Patio",
+        "image": "VERDURIA.jpeg",
+        "longDescription": "The VERDURIA garden planter set offers a sleek and stylish way to bring nature into your home. Ideal for herbs, flowers, or greenery, the planters enhance any space with a touch of natural beauty. The VERDURIA is perfect for both indoor and outdoor use, adding a fresh and vibrant element to your décor."
+      }
+    ]
+  }

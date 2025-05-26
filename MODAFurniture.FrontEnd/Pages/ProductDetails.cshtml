@@ -1,0 +1,21 @@
+@page "{name}"
+@model MODAFurniture.FrontEnd.Pages.ProductDetailsModel
+@{
+    ViewData["Title"] = Model.Product.Name;
+}
+
+<h2>@Model.Product.Name</h2>
+<table>
+    <tr>
+        <td>
+            <img src="~/images/@Model.Product.Image" alt="@Model.Product.Name" style="width:450px;vertical-align:top;margin:10px;" />
+        </td>
+        <td style="vertical-align:top;">
+            <p><strong>Category:</strong> @Model.Product.Category</p>
+            <br/>
+            <p>@Model.Product.LongDescription</p>
+        </td>
+    </tr>
+</table>
+
+

@@ -1,0 +1,117 @@
+﻿@page
+@model MODAFurniture.FrontEnd.Pages.ProductsModel
+@{
+    ViewData["Title"] = "Products";
+}
+
+<h2>Products</h2>
+
+<div class="row mb-4">
+    <div class="col-md-6">
+        <form method="get" class="d-flex">
+            <div class="input-group">
+                <select name="category" class="form-select" aria-label="Filter by category">
+                    <option value="">All Categories</option>
+                    @foreach (var category in Model.Categories)
+                    {
+                        <option value="@category" selected="@(category == Model.SelectedCategory)">@category</option>
+                    }
+                </select>
+                <button class="btn btn-primary" type="submit">Filter</button>
+                @if (!string.IsNullOrEmpty(Model.SelectedCategory))
+                {
+                    <a asp-page="./Products" class="btn btn-outline-secondary">Clear</a>
+                }
+            </div>
+        </form>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Image</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Category</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model.Products)
+        {
+            <tr>
+                <td class="product-image">
+                    <img src="~/images/@product.Image" alt="@product.Name" 
+                        class="img-thumbnail product-thumbnail"
+                         style="max-width: 100px; cursor: pointer;"
+                         data-bs-toggle="modal"
+                         data-bs-target="#imageModal"
+                         data-img-src="/images/@product.Image"
+                         data-img-alt="@product.Name" />
+                </td>
+                <td>
+                    <a asp-page="./ProductDetails" asp-route-name="@product.Name">
+                        <strong>@product.Name</strong>
+                    </a>
+                </td>
+                <td class="product-description">@product.ShortDescription</td>
+                <td>@product.Category</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Modal for displaying larger images -->
+<div class="modal fade" id="imageModal" tabindex="-1" aria-labelledby="imageModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="imageModalLabel">Product Image</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body text-center">
+                <img id="modalImage" src="" alt="" class="img-fluid" />
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .product-description {
+        max-width: 300px;
+        word-wrap: break-word;
+        white-space: normal;
+    }
+
+    .product-image {
+        width: 120px;
+    }
+
+    .product-thumbnail:hover {
+        opacity: 0.8;
+        transition: opacity 0.3s;
+    }
+</style>
+
+@section Scripts {
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Set up the image modal
+            const imageModal = document.getElementById('imageModal');
+            if (imageModal) {
+                imageModal.addEventListener('show.bs.modal', function (event) {
+                    const button = event.relatedTarget;
+                    const imgSrc = button.getAttribute('data-img-src');
+                    const imgAlt = button.getAttribute('data-img-alt');
+
+                    const modalImage = document.getElementById('modalImage');
+                    modalImage.src = imgSrc;
+                    modalImage.alt = imgAlt;
+
+                    const modalTitle = imageModal.querySelector('.modal-title');
+                    modalTitle.textContent = imgAlt;
+                });
+            }
+        });
+    </script>
+}
